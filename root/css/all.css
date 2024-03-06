@@ -28,7 +28,7 @@ body {
 }
 
 body.crazycolors {
-    animation: bg-crazycolors 0.3s linear infinite;
+    animation: bg-crazycolors 1s ease infinite;
 }
 
 body.wait {
@@ -74,7 +74,7 @@ span.colon::after {
 }
 
 #logo {
-    animation: tf-zoombob 2s linear infinite;
+    animation: tf-zoombob 3.5s linear infinite;
     width: 65vmin;
     height: 65vmin;
 }
